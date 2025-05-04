@@ -1,4 +1,4 @@
-# Java Huffman Coding Application
+# Entropy
 
 ## Overview
 
@@ -86,7 +86,3 @@ Compressed Bit Pattern:
 
 - To change input file name, modify the `readFile("text.txt")` call in `Entropy.java`.
 - Encoding direction (left=1/right=0) can be swapped by altering `encoder` calls.
-
-## License
-
-This project is provided under the MIT License — see LICENSE file for full terms. Feel free to use and modify for educational purposes.
