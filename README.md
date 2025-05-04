@@ -1,2 +1,0 @@
-# Entropy
-CS III Assignment
